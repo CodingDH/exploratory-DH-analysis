@@ -1,4 +1,4 @@
-# Versions Histories And Social Values
+# Coding DH
 
-## Computational Approaches to Studying Social Coding in DH
+## Exploratory DH Analysis
 
